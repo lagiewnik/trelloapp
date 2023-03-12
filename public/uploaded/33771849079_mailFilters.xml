@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001673006255031*6278116999469884673,z0000001674381688632*4272825172121346029,z0000001674381767275*6623710487744208422,z0000001674381849901*0160120061884641473,z0000001674382097799*8441419559276940134,z0000001674382198962*4228134354475556404,z0000001674382378624*2704230608253443300,z0000001674382484758*4984948377979920542,z0000001674382539160*0216078997360638888,z0000001674382664916*4356768523437478094,z0000001674382776571*4925083767773132008,z0000001674382889309*0990443421213032195,z0000001674382974928*2521057951822200288,z0000001674383140539*6908645483780298440,z0000001674383233757*2143786532814390148,z0000001674383278300*1066330905493494562,z0000001674383330353*8157298794771354489,z0000001674383370699*1686824674040353410,z0000001674383477114*4623067223654071583,z0000001674383532430*7782333230838553263,z0000001674383570256*8891107202789622370,z0000001674383702285*3072093923693310095,z0000001674383781746*1206757419283526010,z0000001674383818978*7069472092432576515,z0000001674383857517*6062097250942012796,z0000001674383906934*9213799571685200074,z0000001674383940971*5954534855184293334,z0000001674384070578*2897107675780720028,z0000001674384106912*6038691028764266359,z0000001674384140648*3269751733851258084,z0000001674384176364*0265492595239478264,z0000001674384248794*8251690570867496839,z0000001674384282188*9098382200967642533,z0000001674384329791*3435168460651337116,z0000001674384423011*3432641160440245041,z0000001674384477823*8861018263725816569,z0000001674384513079*8741659912479670865,z0000001674384557085*0738432849700529114,z0000001674384595712*6756723051782507259,z0000001674384633242*8742069693269291505,z0000001674384664130*1348551824441166458,z0000001674384705592*2456192103741097767,z0000001674384739415*6711082484298694941,z0000001674384998558*1451810687675310374,z0000001674385035263*5130216832982275575,z0000001674385068042*5601866842815848984,z0000001674385120806*0958227176246306858,z0000001674385174192*2264515217583957262,z0000001674385213552*7503429274489436006,z0000001674385242353*6301353715708135410,z0000001674385310074*6094227439699758697,z0000001674385370988*6465996982185721465,z0000001674385477072*0858687132052425875,z0000001674385527706*3042996266079653388,z0000001674413119312*3003191789911484749</id>
+	<updated>2023-01-22T20:34:34Z</updated>
+	<author>
+		<name>Marcin S</name>
+		<email>lagiewnik@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001673006255031*6278116999469884673</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@appewa.com'/>
+		<apps:property name='label' value='INBOX/angielski'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674381688632*4272825172121346029</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='kontakt@instytutlingwistyki.pl'/>
+		<apps:property name='label' value='INBOX/angielski'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674381767275*6623710487744208422</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@medium.com'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674381849901*0160120061884641473</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='neha@edureka.co'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382097799*8441419559276940134</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='updates@academia-mail.com'/>
+		<apps:property name='label' value='INBOX/academia'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382198962*4228134354475556404</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='azuredevops@microsoft.com'/>
+		<apps:property name='label' value='INBOX/IT/AZURE'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382378624*2704230608253443300</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='kontakt@expertia.com.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382484758*4984948377979920542</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='karol@karolwyszomirski.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382539160*0216078997360638888</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='karol@karolwyszomirski.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382664916*4356768523437478094</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='info@upland.me'/>
+		<apps:property name='label' value='UPLAND'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382776571*4925083767773132008</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='damian@czlowiekuruszsie.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382889309*0990443421213032195</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='news@testelka.pl'/>
+		<apps:property name='label' value='INBOX/TESTY/testelka'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674382974928*2521057951822200288</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='piotr@zrozumiecbitcoina.pl'/>
+		<apps:property name='label' value='KRYPTO'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383140539*6908645483780298440</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='insights@glassnode.com'/>
+		<apps:property name='label' value='KRYPTO'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383233757*2143786532814390148</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='kontakt@expertia.com.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383278300*1066330905493494562</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='info@prowebinar.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383330353*8157298794771354489</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='adam@gotoit.pl'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383370699*1686824674040353410</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='hello@cointracker.io'/>
+		<apps:property name='label' value='KRYPTO'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383477114*4623067223654071583</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='support@guru99.com'/>
+		<apps:property name='label' value='INBOX/TESTY/guru99'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383532430*7782333230838553263</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='powiadomienia@yanosik.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383570256*8891107202789622370</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='czarek@fabrykatestow.pl'/>
+		<apps:property name='label' value='INBOX/TESTY'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383702285*3072093923693310095</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@olx.pl'/>
+		<apps:property name='label' value='OLX'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383781746*1206757419283526010</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='cyborg@swissborg.com'/>
+		<apps:property name='label' value='KRYPTO'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383818978*7069472092432576515</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@appewa.com'/>
+		<apps:property name='label' value='INBOX/angielski'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383857517*6062097250942012796</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;36567.broadcast&gt;)'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383906934*9213799571685200074</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@github.com'/>
+		<apps:property name='label' value='INBOX/IT/GITHUB'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674383940971*5954534855184293334</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='updates@academia-mail.com'/>
+		<apps:property name='label' value='INBOX/academia'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384070578*2897107675780720028</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='webinars@applitools.com'/>
+		<apps:property name='label' value='INBOX/TESTY/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384106912*6038691028764266359</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='news@nieruchomosci-online.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384140648*3269751733851258084</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='do-not-reply@stackoverflow.email'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384176364*0265492595239478264</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='kontakt@tutlo.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384248794*8251690570867496839</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='infoshareacademy.com'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384282188*9098382200967642533</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='oferty@ceneo.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384329791*3435168460651337116</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications.heroku.com'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384423011*3432641160440245041</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='ceneo.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384477823*8861018263725816569</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='fabrykatestow.pl'/>
+		<apps:property name='label' value='INBOX/TESTY'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384513079*8741659912479670865</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='instytutkryptografii.pl'/>
+		<apps:property name='label' value='KRYPTO'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384557085*0738432849700529114</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='info@banbye.com'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384595712*6756723051782507259</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@upland.me'/>
+		<apps:property name='label' value='UPLAND'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384633242*8742069693269291505</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@mail.notifications.atlassian.com'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384664130*1348551824441166458</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='no-reply@pyszne.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384705592*2456192103741097767</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='promotion-noreply1@pokio.com'/>
+		<apps:property name='label' value='poker'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384739415*6711082484298694941</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;spc.233418.0.sparkpostmail.com&gt;)'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674384998558*1451810687675310374</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='aggie@wagarowicze.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385035263*5130216832982275575</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='hello@news.railway.app'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385068042*5601866842815848984</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='hello@notify.railway.app'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385120806*0958227176246306858</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='contact@matchpoker.com'/>
+		<apps:property name='label' value='poker'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385174192*2264515217583957262</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='kkpoker@kkpoker.net'/>
+		<apps:property name='label' value='poker'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385213552*7503429274489436006</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='kontakt@forbot.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385242353*6301353715708135410</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='team@info.sololearn.com'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385310074*6094227439699758697</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='calendar-notification@google.com'/>
+		<apps:property name='label' value='kalendarz'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385370988*6465996982185721465</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='no-reply@notify.docker.com'/>
+		<apps:property name='label' value='INBOX/IT/OTHER'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385477072*0858687132052425875</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;ontradegroup.pl_sm_hcntliasxdhmlojq&gt;)'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674385527706*3042996266079653388</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;b4fd4da5e69925247483ef7ea187797aa26df44f.google.com&gt;)'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001674413119312*3003191789911484749</id>
+		<updated>2023-01-22T20:34:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='marsjan2@o2.pl'/>
+		<apps:property name='label' value='INBOX/TMP'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>

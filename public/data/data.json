@@ -1,5 +1,13 @@
 {
-  "boards": [],
+  "boards": [
+    {
+      "name": "new board for stars",
+      "user": 0,
+      "id": 5928869338,
+      "starred": true,
+      "created": "2023-03-12"
+    }
+  ],
   "tasks": [],
   "users": [],
   "lists": []
