@@ -73,5 +73,9 @@ declare namespace Cypress {
       id?: number;
     }): Chainable<Element>
 
+    /**
+     * get element by data-cy attribute
+     */
+    getById(id: string): Chainable<Element>
   }
 }

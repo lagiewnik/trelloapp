@@ -3,12 +3,30 @@
     {
       "name": "new board for stars",
       "user": 0,
-      "id": 14055356600,
+      "id": 41920110813,
       "starred": false,
-      "created": "2023-03-18"
+      "created": "2023-04-10"
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "boardId": 41920110813,
+      "description": "",
+      "completed": false,
+      "listId": 25450303886,
+      "title": "My new test task",
+      "id": 59489621267,
+      "created": "2023-04-10",
+      "deadline": "2023-04-13"
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 41920110813,
+      "title": "New list",
+      "id": 25450303886,
+      "created": "2023-04-10"
+    }
+  ]
 }
