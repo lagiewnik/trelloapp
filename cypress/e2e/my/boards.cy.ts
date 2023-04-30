@@ -75,5 +75,6 @@ describe('Boards testing', () => {
         cy.log('click created task').getById('task').click({force: true});
 
         cy.log('verify task details').getById('task-module').should('be.visible');
+        cy.getById('task').click({force: true})
     });
 });
