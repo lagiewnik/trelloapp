@@ -12,6 +12,14 @@ declare namespace Cypress {
     addBoardUi(value: string): Chainable<Element>
 
     /**
+     * create new board
+     * @param value title of board
+     * @example
+     * cy.addBoard("testowy board")
+    */
+    addBoard(value: string): void
+
+    /**
      * Adds new list via API and saves it to env
     */
     addListApi(options: {
